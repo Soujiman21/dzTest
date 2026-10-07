@@ -9,7 +9,7 @@
 
 ## ℹ️ Project Information
 
-- **👤 Author:** dHuntera
+- **👤 Author:** dHunteragggg
 - **📦 Version:** 0.0.0.1 ~*Alpha-1*~
 - **📄 License:** MIT
 - **📂 Repository:**
